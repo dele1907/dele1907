@@ -1,3 +1,3 @@
-- Hi, I’m @dele1907 from Germany
+- Hi, I’m Dennis from Germany
 - I’m interested in Swift, Java, Javascript and Typescript
 - I’m currently a Computer Science student
