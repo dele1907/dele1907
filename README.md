@@ -30,7 +30,7 @@
 
 ## 🔭 What I'm Working On
 
-- 🌱 At the moment I am developing my skills in **SwiftUI**, **Vue.js** and advanced **TypeScript** patterns  
+- 🌱 At the moment I am developing my skills in **SwiftUI**, **Vue.js**, **Spring Boot** and advanced **TypeScript** patterns.
 - 💡 Building apps using **React**, **NestJS** and **Node.js**  
 - 📦 Exploring **modular architecture** and **clean code** practices  
 
